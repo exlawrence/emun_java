@@ -14,7 +14,6 @@ public class Program {
 		System.out.println(order);
 		
 		
-		//obs: para instanciar um tipo do Order(enum), não é preciso usar o new!
 		OrderStatus os1 = OrderStatus.DELIVERED;
 		System.out.println(os1);
 		//Conversão de String para enum
